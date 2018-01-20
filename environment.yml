@@ -1,0 +1,15 @@
+name: jupyter-blog
+
+channels:
+ - conda-forge
+
+dependencies:
+  - python=3
+  - Markdown
+  - pelican
+  - jupyter
+  - ipython
+  - beautifulsoup4
+  - matplotlib
+  - nbconvert
+  - ghp-import
